@@ -19,6 +19,13 @@ You can launch the install.sh by terminal or follow these steps.
 Now enjoy.
 
 
+Contacts & Feedback
+=======
+
+Suggest feedback here on GitHub or contact me claudio at tugulab.org
+Check my personal projects on http://tugulab.org
+
+
 Aknowledgements
 =======
 This project is an improved version of this other one:
