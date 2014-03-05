@@ -1,8 +1,7 @@
 Monokai Xcode Optimised Theme 
 =======
 
-This Xcode theme means to be the best port of the Monokai theme for Xcode 5 and newer.
-So, all the feedback and improvements are welcome.
+This Xcode theme means to be the best port of the Monokai theme for Xcode 5 and newer. So, all the feedback and improvements are welcome.
 
 
 Installation
@@ -22,7 +21,8 @@ Now enjoy.
 Contacts & Feedback
 =======
 
-Suggest feedback here on GitHub or contact me claudio at tugulab.org
+Suggest feedback here on GitHub or contact me claudio at tugulab.org.
+
 Check my personal projects on http://tugulab.org
 
 
@@ -30,4 +30,5 @@ Aknowledgements
 =======
 This project is an improved version of this other one:
 https://github.com/mclaughj/Monokai-Xcode-Theme
+
 Thanks for the work you've done!
